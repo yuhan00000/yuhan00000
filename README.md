@@ -1,32 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is LIM YU HAN
-==================================================================================================================================
+<h1 align="center">Hi 👋, I'm LIM YU HAN</h1>
+<h3 align="center">A passionate frontend developer from Malaysia</h3>
 
-Student of Bachelor in Computer Science
----------------------------------------
-
-*   🌍  I'm based in Johor Bahru
-*   ✉️  You can contact me at [yuhan@graduate.utm.my](mailto:yuhan@graduate.utm.my)
-*   🧠  I'm learning C++
-*   🤝  I'm open to collaborating on projects### Skills 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-                    </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                      <a href="https://www.github.com/yuhan00000" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="https://www.linkedin.com/in/lim-yu-han-695215268" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-                    </picture>
-                    </a></p>### Badges<b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/yuhan00000/TIS-02-2023" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yuhan00000&repo=TIS-02-2023&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<a href="https://linkedin.com/in/lim-yu-han-695215268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lim-yu-han-695215268" height="30" width="40" /></a>
+<a href="https://fb.com/lim yu han" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lim yu han" height="30" width="40" /></a>
+<a href="https://instagram.com/yyuhan13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yyuhan13" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
