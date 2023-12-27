@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm LIM YU HAN</h1>
-<h3 align="center">I am a 20-year-old student pursuing a bachelor's degree in computer science with a focus on data engineering in University Technology Malaysia. I'm from Johor, Malaysia. I took this course because I'm very interested in programming and I'm drawn to the possible pay in this industry. Any new programming language would be of great interest to me to learn!</h3>
+<h3 align="center">I am a 20-year-old student pursuing a bachelor's degree in computer science with a focus on data engineering in University Technology Malaysia. I'm from Johor, Malaysia. I took this course because I'm very interested in programming and I'm drawn to the possible pay in this industry. Any new programming languages would be of great interest to me to learn!</h3>
 
 - 🌱 I’m currently learning **data engineering**
 
