@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuhan00000&label=Profile%20views&color=0e75b6&style=flat" alt="yuhan00000" /> </p>
 
+<br>
+<img align="right" alt="Coder GIF" height=300 width=300 src="https://github.com/yuhan00000/yuhan00000/assets/148309770/ba7ebd12-c524-46c4-8f67-410aeb5aa67e)"/>
+
+
 - 🌱 I’m currently learning **data engineering**
 
 - 📫 How to reach me **yuhan@graduate.utm.my**
@@ -21,6 +25,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuhan00000&show_icons=true&locale=en" alt="yuhan00000" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuhan00000&" alt="yuhan00000" /></p>
 
 
