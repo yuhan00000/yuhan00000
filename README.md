@@ -25,7 +25,7 @@ Connect with me 💫
 <a href="https://linkedin.com/in/lim-yu-han-695215268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lim-yu-han-695215268" height="30" width="40" /></a>
 <a href="https://fb.com/lim yu han" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lim yu han" height="30" width="40" /></a>
 <a href="https://instagram.com/yyuhan13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yyuhan13" height="30" width="40" /></a>
-</p>
+</p> <br>
 
 Skills 💥
 ----------------------------------------------------------------------------
@@ -46,9 +46,11 @@ Courses Secph Y1S1 📍
 - Programming Technique I
 - Integrity and Anti-Corruption
 
-Honours 🏆
+Honours and Awards🏆
 ----------------------------------------------------------------------------
-[cgpa foundation](https://github.com/yuhan00000/yuhan00000/files/13948451/cgpa.foundation.pdf)
+- Here is the [academic transcript](https://github.com/yuhan00000/yuhan00000/files/13948451/cgpa.foundation.pdf) for foundation.
+- [Award](https://github.com/yuhan00000/yuhan00000/files/13948659/cgpa.foudation.award.pdf) from SPACE.
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuhan00000&show_icons=true&locale=en" alt="yuhan00000" /></p>
