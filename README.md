@@ -53,7 +53,7 @@ Certificate ⭐
 
 Honours and Awards🏆
 ----------------------------------------------------------------------------
-- Here is the [academic transcript](https://github.com/yuhan00000/yuhan00000/files/13948882/LIM.YU.HAN.temporary.transcript._240116_184140.pdf)
+- Here is the [academic transcript](https://github.com/yuhan00000/yuhan00000/files/13948882/LIM.YU.HAN.temporary.transcript._240116_184140.pdf).
 - [Award](https://github.com/yuhan00000/yuhan00000/files/13948659/cgpa.foudation.award.pdf) from SPACE.
 
 <br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuhan00000&show_icons=true&locale=en" alt="yuhan00000" /></p>
