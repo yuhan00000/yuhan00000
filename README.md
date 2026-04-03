@@ -15,9 +15,7 @@ About Me 👧🏻
 
 Education 🏤
 ----------------------------------------------------------------------------
-- Primary : Sjk(c) Pu Sze
-- Secondary : Smk Infant Jesus Convent
-- Tertiary : University Technology Malaysia
+- University Technology Malaysia
 
 Connect with me 💫
 ----------------------------------------------------------------------------
