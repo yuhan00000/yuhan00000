@@ -108,7 +108,3 @@ PHP, MySQL, HTML, CSS, Laragon, MVC Architecture
 </a>
 </p>
 
----
-
-## 📊 GitHub Stats
-<br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuhan00000&show_icons=true&locale=en" alt="yuhan00000" /></p>
